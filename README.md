@@ -1,6 +1,6 @@
 Tableau de Bord : Eau Potable dans le Monde
 
-file:///C:/Users/Edine/Documents/OPC/P8/TRAVAUX/Tableau/Etude%20sur%20l'eau%20potable%20(test)%20_%20Tableau%20Public.mhtml
+[Uploading Etude sur l'eau potable (test) _ Tableau Public.mhtml…]()
 
 Vue d'ensemble
 Ce projet présente un tableau de bord détaillé sur l'accès à l'eau potable dans le monde. Il est conçu pour fournir des visualisations claires, intéractifs et des analyses approfondies concernant la disponibilité et la qualité de l'eau potable dans différentes régions.
