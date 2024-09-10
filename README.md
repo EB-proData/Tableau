@@ -1,6 +1,7 @@
 Tableau de Bord : Eau Potable dans le Monde
 
-[[Uploading Etude sur l'eau potable (test) _ Tableau Public.mhtml…]()](https://public.tableau.com/app/profile/den.bal/viz/Etudesurleaupotabletest/Accueil)
+Lien vers le Tableau interactif :
+(https://public.tableau.com/app/profile/den.bal/viz/Etudesurleaupotabletest/Accueil)
 
 Vue d'ensemble
 Ce projet présente un tableau de bord détaillé sur l'accès à l'eau potable dans le monde. Il est conçu pour fournir des visualisations claires, intéractifs et des analyses approfondies concernant la disponibilité et la qualité de l'eau potable dans différentes régions.
